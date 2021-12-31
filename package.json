@@ -1,0 +1,31 @@
+{
+  "name": "CryptoWolf",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://git.corp.adobe.com/rupachak/Cryptowolf",
+  "keywords": [
+    "Electron",
+    "Crypto",
+    "App"
+  ],
+  "author": "Rupak",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  },
+  "dependencies": {
+    "bitcoinaverage": "^1.0.0",
+    "bower": "^1.8.4",
+    "bulma": "^0.7.1",
+    "crypto-news-api": "^1.0.22",
+    "highcharts": "^6.1.1",
+    "jquery": "^3.3.1",
+    "newsapi": "^2.2.2",
+    "node-notifier": "^5.2.1",
+    "request": "^2.87.0"
+  }
+}
